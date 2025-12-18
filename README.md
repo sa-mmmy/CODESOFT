@@ -1,7 +1,8 @@
 Un ensemble de projets de machine learning et data science axés sur des problématiques réelles telles que la détection de fraude, la prédiction du churn client et la classification de genres de films.
 Ce dépôt contient plusieurs notebooks Jupyter illustrant différentes approches de modélisation et d’analyse de données.
 
-Projets inclus
+Projets inclus : 
+
 📌 Détection de fraude par carte bancaire
 
 Fichier : credit card fraud detection.ipynb
